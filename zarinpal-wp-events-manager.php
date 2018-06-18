@@ -8,7 +8,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       درگاه زرین پال افزونه WP Events Manager
- * Plugin URI:        https://shahrwp.com
+ * Plugin URI:        https://github.com/AmirHosseinAhmadi/
  * Description:       درگاه پرداخت زرین پال برای پلاگین مدیریت رویداد وردپرس.
  * Version:           1.1.0
  * Author:            شهر وردپرس
